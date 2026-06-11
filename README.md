@@ -2,15 +2,27 @@
 
 <!--
 **Mukesh7892/mukesh7892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mukesh 
+M.Tech Robotics & Intelligent Systems @ IIT Hyderabad 
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Computer Vision
+- Autonomous Navigation
+- Robotics Software
+- AI & Machine Learning
+
+
+## Tech Stack
+
+- ROS 2
+- Python
+- Linux
+- OpenCV
+- Gazebo
+
+## Current Work
+VINSLAM for mobile robot in dynamic environments
+
+
 -->
