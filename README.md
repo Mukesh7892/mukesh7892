@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Mukesh7892/mukesh7892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Mukesh 
 M.Tech Robotics & Intelligent Systems @ IIT Hyderabad 
 
